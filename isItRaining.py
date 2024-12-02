@@ -6,4 +6,4 @@ if raining == "yes":
 
 
 a=4.
-type(a)
+type(a) #<class 'float'>
